@@ -1,5 +1,7 @@
-# Tracking-a-balls-trajectory-from-video-using-OpenCV-and-LS
+### Tracking-a-balls-trajectory-from-video-using-OpenCV-and-LS
 Tracking a ball's trajectory from a video and plotting the curve using Standard Least Squares method for a noisy and a non noisy video
+
+### How to run the code
 Just copy and paste all the files in a folder (including the videos)
 For running all the codes you need to create an environment first and then install the libraries. 
 Install required packages onto your virtual environment. Replace “myenv”with your environment name. 
